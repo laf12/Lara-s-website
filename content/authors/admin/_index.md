@@ -1,32 +1,32 @@
 ---
 # Display name
-title: Theodor Chakhachiro
+title: Lara Fadel
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: MSc in Robotics Student
+role: MSc in Materials Engineering Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Michigan
-  url: "https://umich.edu/"
+- name: KU Leuven
+  url: "https://kuleuven.be/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Control Systems
-- SLAM 
-- Optimization
+- Polymer Composites
+- Aerospace 
+- Material Selection 
 
 education:
   courses:
-  - course: MS Mechatronics, Robotics and Automation
-    institution: University of Michigan
+  - course: MSc Materials Engineering
+    institution: KU Leuven
     year: 2023
-  - course: BE in Mechanical Engineering
+  - course: BEng in Mechanical Engineering
     institution: American University of Beirut
     year: 2020
 
@@ -37,25 +37,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:chakhachirotheodor@gmail.com".
-- icon: youtube
-  icon_pack: fab
-  link: https://www.youtube.com/channel/UCe653qSxcyjLPcWxa6GNiYg
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=GFfVbcQAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/Theochiro
+  link: '/#contact'  # For a direct email link, use "mailto:lara.fadel@student.kuleuven.be".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/teochiro
+  link: https://www.linkedin.com/in/larafadel
 - icon: cv
   icon_pack: ai
-  link: files/CV_of_Theodor_Chakhachiro.pdf
+  link: files/Lara_Fadel_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mailto:chakhachirotheodor@gmail.com"
+email: "mailto:lara.fadel@student.kuleuven.be"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
