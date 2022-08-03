@@ -1,72 +1,70 @@
 ---
 # Display name
-title: Lara Fadel
+title: Theodor Chakhachiro
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: MSc in Materials Engineering
+# Role/position
+role: MSc in Robotics Student
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
-  - name: KU Leuven
-    url: https://www.kuleuven.be/
+- name: University of Michigan
+  url: "https://umich.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include composites, polymers and their aerospace applications.
+bio: 
 
-# Interests to show in About widget
 interests:
-  - Polymer Compsoites
-  - Aerospace
-  - Material Selection
+- Control Systems
+- SLAM 
+- Optimization
 
-# Education to show in About widget
 education:
   courses:
-    - course: MSc Materials Engineering
-      institution: KU Leuven
-      year: 2023
-    - course: BEng Mechanical Engineering
-      institution: American University of Beirut
-      year: 2020
-
+  - course: MS Mechatronics, Robotics and Automation
+    institution: University of Michigan
+    year: 2023
+  - course: BE in Mechanical Engineering
+    institution: American University of Beirut
+    year: 2020
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/laf12
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/larafadel/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: envelope
+  icon_pack: fas
+  link: '/#contact'  # For a direct email link, use "mailto:chakhachirotheodor@gmail.com".
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCe653qSxcyjLPcWxa6GNiYg
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=GFfVbcQAAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Theochiro
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/teochiro
+- icon: cv
+  icon_pack: ai
+  link: files/CV_of_Theodor_Chakhachiro.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: "mailto:chakhachirotheodor@gmail.com"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+#user_groups:
+#- Researchers 
+#- Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am currently pursuing a MSc in Robotics at the University of Michigan. I have also joined the CURLY Lab as a graduate student research assistant under the guidance of Prof. Maani Ghaffari.
+Throughout my undergraduate career at the American University of Beirut, I developed a deep and passionate interest in the field of Robotics and Control Systems. My knowledge in this field is always expanding, whether by working on several projects or by working on my research topics. I am always looking for ways to increase my knowledge in Robotics and hopefully implement it for good use in this world.
