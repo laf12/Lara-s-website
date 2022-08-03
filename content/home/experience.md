@@ -29,11 +29,11 @@ experience:
     location: Beirut, Lebanon
     date_start: 'Nov 2020'
     date_end: 'Dec 2020'
-    description: |2-
-        Responsibilities include:
+    # description: |2-
+    #     Responsibilities include:
         
-        * Design of HVAC systems for multiple projects in the UK and the Middle East under the Mechanical Engineering unit.
-        * Weekly updates and meeting presentations were held to update the client of the progress.
+    #     * Design of HVAC systems for multiple projects in the UK and the Middle East under the Mechanical Engineering unit.
+    #     * Weekly updates and meeting presentations were held to update the client of the progress.
 
   - title: Professor of Semiconductor Physics
     company: University X
